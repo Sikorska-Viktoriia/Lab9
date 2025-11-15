@@ -1,0 +1,11 @@
+C:\Users\vika\Documents\Lab8\lab9.os\bin\Debug\lab9.os.exe.config
+C:\Users\vika\Documents\Lab8\lab9.os\bin\Debug\lab9.os.exe
+C:\Users\vika\Documents\Lab8\lab9.os\bin\Debug\lab9.os.pdb
+C:\Users\vika\Documents\Lab8\lab9.os\obj\Debug\lab9.os.csproj.AssemblyReference.cache
+C:\Users\vika\Documents\Lab8\lab9.os\obj\Debug\lab9.os.Form1.resources
+C:\Users\vika\Documents\Lab8\lab9.os\obj\Debug\lab9.os.Properties.Resources.resources
+C:\Users\vika\Documents\Lab8\lab9.os\obj\Debug\lab9.os.csproj.GenerateResource.cache
+C:\Users\vika\Documents\Lab8\lab9.os\obj\Debug\lab9.os.csproj.CoreCompileInputs.cache
+C:\Users\vika\Documents\Lab8\lab9.os\obj\Debug\lab9.os.exe
+C:\Users\vika\Documents\Lab8\lab9.os\obj\Debug\lab9.os.pdb
+C:\Users\vika\Documents\Lab8\lab9.os\obj\Debug\lab9.os.exe.config
